@@ -6,7 +6,7 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=SanHacks&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
 />
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=JavaScript,TypeScript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,&show-other-skills=true"
 />
 
 
