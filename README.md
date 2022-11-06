@@ -1,8 +1,7 @@
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,&show-other-skills=true"
 />
 
 
