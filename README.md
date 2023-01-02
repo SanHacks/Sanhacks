@@ -5,6 +5,6 @@
 
 
 🔭 I’m currently working on making the world a better place through code.<br>
-🌱 I’m currently learning Kotlin<br>
+🌱 I’m currently learning Go<br>
 👯 I’m looking to collaborate on project that have a postive social impact.<br>
 
