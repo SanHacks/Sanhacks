@@ -20,5 +20,5 @@
 👯 I’m looking to collaborate on project that have a postive social impact.<br>
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,go&show-other-skills=true"
 />
