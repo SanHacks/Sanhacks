@@ -1,5 +1,5 @@
 
-<img
+<img height='50%' width='50%' style="position:center"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sanhacks"
 />
 <div style="display: inline_block"><br/>
@@ -17,6 +17,6 @@
 🌱 I’m currently learning Go<br>
 👯 I’m looking to collaborate on project that have a postive social impact.<br>
 
-<img
+<img width='50%' height='50%'
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,go&show-other-skills=true"
 />
