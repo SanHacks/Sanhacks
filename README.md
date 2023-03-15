@@ -12,9 +12,7 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
 </div>
-
 🔭 I’m currently working on making the world a better place through code.<br>
 🌱 I’m currently learning Go<br>
 👯 I’m looking to collaborate on project that have a postive social impact.<br>
