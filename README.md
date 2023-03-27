@@ -1,4 +1,3 @@
-
 <img height='50%' width='50%' style="position:center"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sanhacks"/>
 <div style="display: inline_block"><br/>
