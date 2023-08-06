@@ -1,5 +1,5 @@
 
-<img height='60%' width='60%' style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/>
+<img height='70%' width='70%' style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/>
 <div style="display: inline_block"><br/>
   
 <img align="center" alt="Go" src="https://img.shields.io/badge/Go-2986cc?style=for-the-badge&logo=Go&logoColor=white" />
@@ -13,9 +13,9 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 🔭 I’m currently working on making the world a better place through code.<br>
-🌱 I’m currently learning Go<br>
-👯 I’m looking to collaborate on a project that has a positive social impact.<br>
+🌱 I’m currently learning Platform Engineering</br>
+👯 I’m looking to collaborate on a positive social impact project.<br>
 
-<img width='50%' height='50%'
+<img width='60%' height='60%'
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,go&show-other-skills=true"
 />
