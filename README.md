@@ -1,5 +1,5 @@
 
-<img height='60%' width='60%' style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/>
+<img style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/>
 <div style="display: inline_block"><br/>
   
 <img align="center" alt="Go" src="https://img.shields.io/badge/Go-2986cc?style=for-the-badge&logo=Go&logoColor=white" />
