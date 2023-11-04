@@ -1,6 +1,7 @@
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/sanhacks/count.svg)
 
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/sanhacks/Aigen">
@@ -12,6 +13,8 @@
 </a>
 
 ## Trophies
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanhacks)](https://git.io/streak-stats)
+
 <!--- <img style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=SanHacks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
