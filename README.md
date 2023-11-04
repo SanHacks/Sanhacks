@@ -1,4 +1,3 @@
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=sanhacks&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--- <img style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=SanHacks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -21,3 +20,4 @@
 <img width='60%' height='60%'
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,go&show-other-skills=true"
 />
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=sanhacks&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
