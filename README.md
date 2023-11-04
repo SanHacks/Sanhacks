@@ -1,6 +1,10 @@
-
+## Profile Views
+![Visitor Count](https://profile-counter.glitch.me/sanhacks/count.svg)
+## Trophies
 <!--- <img style="position:center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sanhacks"/> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=SanHacks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Tech Stack
 <div style="display: inline_block"><br/>
   
 <img align="center" alt="Go" src="https://img.shields.io/badge/Go-2986cc?style=for-the-badge&logo=Go&logoColor=white" />
@@ -17,8 +21,9 @@
 🌱 I’m currently learning Platform Engineering</br>
 👯 I’m looking to collaborate on a positive social impact project.<br>
 
+## Timeline
 <img width='60%' height='60%'
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,go&show-other-skills=true"
 />
 
-![Visitor Count](https://profile-counter.glitch.me/sanhacks/count.svg)
+
