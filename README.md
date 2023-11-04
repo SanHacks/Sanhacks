@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=busy+building+cool+stuff)](https://git.io/typing-svg)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/sanhacks/count.svg)
