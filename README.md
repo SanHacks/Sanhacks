@@ -1,6 +1,6 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ## Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/sanhacks/count.svg)
-
 
 ## 🗂️ Highlight Projects
 
