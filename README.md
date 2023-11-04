@@ -20,3 +20,5 @@
 <img width='60%' height='60%'
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,ts,go&show-other-skills=true"
 />
+
+![Visitor Count](https://profile-counter.glitch.me/sanhacks/count.svg)
