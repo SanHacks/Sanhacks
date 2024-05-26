@@ -12,6 +12,31 @@
 <a href="https://github.com/SanHacks/Chat-GPT3-Whatsapp-Web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanhacks&repo=Chat-GPT3-Whatsapp-Web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GPT" />
 </a>
+<a href="https://github.com/SanHacks">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/SanHacks">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/SanHacks">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/SanHacks">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/SanHacks">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/SanHacks">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/SanHacks">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
 
 ## Trophies
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanhacks)](https://git.io/streak-stats)
