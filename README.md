@@ -66,7 +66,7 @@
 👯 I’m looking to collaborate on a positive social impact project.<br>
 
 ## Timeline
-<img width='60%' height='60%'
+<img width='100%' height='70%'
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sanhacks&skills=PHP,PYTHON,Java,Javascript,JSON,Typescript,CSS,HTML,HTML5,CSS3,ts,go,Laravel,Shell,SQL,MySQL,C,Robot,VueJS&show-other-skills=true"
 />
 
