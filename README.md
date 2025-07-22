@@ -62,7 +62,6 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 🔭 I’m currently working on making the world a better place through code, Mainly in: PHP, GOlang, Python<br>
-🌱 I’m currently learning Platform Engineering(k8s)</br>
 👯 I’m looking to collaborate on a positive social impact project.<br>
 
 ## Timeline
