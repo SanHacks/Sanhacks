@@ -33,6 +33,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![MySQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/React-Js-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
 **Cloud Services:**
 
